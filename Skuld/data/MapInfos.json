@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":false,"name":"Library 1st Floor post","order":7,"parentId":0,"scrollX":498,"scrollY":641.5},
 {"id":10,"expanded":false,"name":"MAP010","order":8,"parentId":0,"scrollX":498,"scrollY":641.5},
 null,
-{"id":12,"expanded":true,"name":"Library 2nd Floor post","order":11,"parentId":0,"scrollX":676.2857142857142,"scrollY":753.4285714285713}
+{"id":12,"expanded":true,"name":"Library 2nd Floor post","order":11,"parentId":0,"scrollX":498,"scrollY":641.5}
 ]
