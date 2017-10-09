@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":10,"parentId":0,"scrollX":498,"scrollY":641.5},
-{"id":2,"expanded":true,"name":"Library 2nd Floor pre","order":1,"parentId":0,"scrollX":498,"scrollY":641.5},
+{"id":2,"expanded":true,"name":"Library 2nd Floor pre","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":3,"expanded":false,"name":"Temple Entrance","order":9,"parentId":0,"scrollX":585,"scrollY":633.5},
 {"id":4,"expanded":false,"name":"Skuld`s Temple Interior","order":2,"parentId":0,"scrollX":518,"scrollY":633.5},
 {"id":5,"expanded":false,"name":"Player Home","order":3,"parentId":0,"scrollX":498,"scrollY":641.5},
@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":false,"name":"Library 1st Floor post","order":7,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":10,"expanded":false,"name":"MAP010","order":8,"parentId":0,"scrollX":498,"scrollY":641.5},
 null,
-{"id":12,"expanded":true,"name":"Library 2nd Floor post","order":11,"parentId":0,"scrollX":498,"scrollY":641.5}
+{"id":12,"expanded":true,"name":"Library 2nd Floor post","order":11,"parentId":0,"scrollX":832,"scrollY":640}
 ]
