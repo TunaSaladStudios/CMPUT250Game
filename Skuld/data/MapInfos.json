@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":11,"parentId":0,"scrollX":498,"scrollY":641.5},
-{"id":2,"expanded":true,"name":"Library 2nd Floor pre","order":5,"parentId":7,"scrollX":723,"scrollY":633.5},
+{"id":2,"expanded":true,"name":"Library 2nd Floor pre","order":5,"parentId":7,"scrollX":1139,"scrollY":646},
 {"id":3,"expanded":true,"name":"Temple Entrance","order":1,"parentId":0,"scrollX":1139,"scrollY":646},
 {"id":4,"expanded":false,"name":"Skuld`s Temple Interior","order":2,"parentId":3,"scrollX":1131,"scrollY":646},
 {"id":5,"expanded":false,"name":"Player Home","order":8,"parentId":7,"scrollX":1139,"scrollY":646},
