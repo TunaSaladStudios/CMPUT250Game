@@ -3,7 +3,7 @@ null,
 {"id":1,"expanded":true,"name":"MAP001","order":11,"parentId":0,"scrollX":498,"scrollY":641.5},
 {"id":2,"expanded":true,"name":"Library 2nd Floor pre","order":5,"parentId":7,"scrollX":668.5714285714286,"scrollY":797.1428571428571},
 {"id":3,"expanded":true,"name":"Temple Entrance","order":1,"parentId":0,"scrollX":668.5714285714286,"scrollY":810.8571428571428},
-{"id":4,"expanded":false,"name":"Skuld`s Temple Interior","order":2,"parentId":3,"scrollX":1131,"scrollY":646},
+{"id":4,"expanded":false,"name":"Skuld`s Temple Interior","order":2,"parentId":3,"scrollX":1390.2857142857142,"scrollY":826.2857142857142},
 {"id":5,"expanded":false,"name":"Player Home","order":8,"parentId":7,"scrollX":668.5714285714286,"scrollY":810.8571428571428},
 {"id":6,"expanded":false,"name":"NPC house","order":9,"parentId":7,"scrollX":668.5714285714286,"scrollY":810.8571428571428},
 {"id":7,"expanded":true,"name":"Town","order":3,"parentId":0,"scrollX":1404,"scrollY":797.1428571428571},
@@ -11,5 +11,5 @@ null,
 {"id":9,"expanded":false,"name":"Library 1st Floor post","order":6,"parentId":7,"scrollX":668.5714285714286,"scrollY":797.1428571428571},
 {"id":10,"expanded":false,"name":"MAP010","order":10,"parentId":0,"scrollX":668.5714285714286,"scrollY":810.8571428571428},
 null,
-{"id":12,"expanded":true,"name":"Library 2nd Floor post","order":7,"parentId":7,"scrollX":498,"scrollY":633.5}
+{"id":12,"expanded":true,"name":"Library 2nd Floor post","order":7,"parentId":7,"scrollX":668.5714285714286,"scrollY":797.1428571428571}
 ]
