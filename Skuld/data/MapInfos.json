@@ -15,5 +15,8 @@ null,
 {"id":13,"expanded":false,"name":"Entrance","order":13,"parentId":11,"scrollX":1131,"scrollY":1086},
 {"id":14,"expanded":false,"name":"Tim's Hole","order":14,"parentId":11,"scrollX":1139,"scrollY":646},
 {"id":15,"expanded":false,"name":"Main area","order":15,"parentId":11,"scrollX":1139,"scrollY":646},
-{"id":16,"expanded":false,"name":"MAP016","order":16,"parentId":11,"scrollX":1139,"scrollY":646}
+{"id":16,"expanded":false,"name":"MAP016","order":16,"parentId":11,"scrollX":1139,"scrollY":646},
+{"id":17,"expanded":false,"name":"MAP017","order":17,"parentId":11,"scrollX":1139,"scrollY":646},
+{"id":18,"expanded":false,"name":"MAP018","order":18,"parentId":11,"scrollX":1139,"scrollY":646},
+{"id":19,"expanded":false,"name":"MAP019","order":19,"parentId":11,"scrollX":1139,"scrollY":646}
 ]
