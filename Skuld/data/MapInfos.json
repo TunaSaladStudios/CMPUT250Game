@@ -12,8 +12,8 @@ null,
 {"id":10,"expanded":true,"name":"Stein's Tower","order":10,"parentId":0,"scrollX":1178.1818181818182,"scrollY":665.4545454545455},
 {"id":11,"expanded":true,"name":"Tim's Cave","order":12,"parentId":0,"scrollX":819,"scrollY":452.5},
 {"id":12,"expanded":true,"name":"Library 2nd Floor post","order":7,"parentId":7,"scrollX":798,"scrollY":462},
-{"id":13,"expanded":false,"name":"Cavern","order":13,"parentId":11,"scrollX":811,"scrollY":444.5},
-{"id":14,"expanded":false,"name":"Tim's Hole","order":14,"parentId":11,"scrollX":819,"scrollY":452.5},
+{"id":13,"expanded":false,"name":"Entrance","order":13,"parentId":11,"scrollX":1131,"scrollY":646},
+{"id":14,"expanded":false,"name":"Tim's Hole","order":14,"parentId":11,"scrollX":1139,"scrollY":646},
 {"id":15,"expanded":false,"name":"MAP015","order":15,"parentId":11,"scrollX":819,"scrollY":452.5},
-{"id":16,"expanded":false,"name":"MAP016","order":16,"parentId":11,"scrollX":819,"scrollY":452.5}
+{"id":16,"expanded":false,"name":"MAP016","order":16,"parentId":11,"scrollX":1139,"scrollY":646}
 ]
