@@ -9,5 +9,5 @@ var $plugins =
 {"name":"TerraxLighting","status":true,"description":"v1.5.1 Creates an extra layer that darkens a map and adds lightsources!","parameters":{"Player radius":"0","Add to options":"Yes","Option menu entry":"Lighting effects","Reset Lights":"No","Save DaynightHours":"0","Save DaynightMinutes":"0","Save DaynightSeconds":"0","Flashlight offset":"0","Screensize X":"866","Screensize Y":"630","Kill Switch":"No"}},
 {"name":"No Autoshadow","status":true,"description":"Removes automatic shadows from displaying in game.","parameters":{}},
 {"name":"SRD_CameraCore","status":true,"description":"Allows developers to preform various camera motions including focusing and zooming.","parameters":{"Default Zoom":"1","Zoom Pictures?":"true","Margin Formula":"(Graphics.width / scale) - Graphics.width","Fix Black Lines":"false"}},
-{"name":"MBS SEmittance","status":true,"description":"Allows you to set an sound emittance for events with 3d positioning\r\nand distance.\r\n<MBS SEmittance>","parameters":{"Use HRTF":"true","3D Sound":"true"}}
+{"name":"MBS_SoundEmittance","status":true,"description":"Allows you to set an sound emittance for events with 3d positioning\r\nand distance.\r\n<MBS SEmittance>","parameters":{"Use HRTF":"true","3D Sound":"true"}}
 ];
