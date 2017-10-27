@@ -15,10 +15,10 @@ null,
 {"id":13,"expanded":false,"name":"Entrance","order":13,"parentId":11,"scrollX":1189.3333333333333,"scrollY":1089.3333333333333},
 {"id":14,"expanded":false,"name":"Tim's Hole","order":19,"parentId":11,"scrollX":1404,"scrollY":819.4285714285713},
 {"id":15,"expanded":false,"name":"Main area","order":14,"parentId":11,"scrollX":1404,"scrollY":819.4285714285713},
-{"id":16,"expanded":false,"name":"Mini cave 1","order":15,"parentId":11,"scrollX":1404,"scrollY":819.4285714285713},
-{"id":17,"expanded":false,"name":"Mini cave 3","order":16,"parentId":11,"scrollX":1404,"scrollY":819.4285714285713},
-{"id":18,"expanded":false,"name":"Mini Cave 2","order":17,"parentId":11,"scrollX":1404,"scrollY":819.4285714285713},
-{"id":19,"expanded":false,"name":"Mini Cave 4","order":18,"parentId":11,"scrollX":712,"scrollY":505.3333333333333},
-{"id":20,"expanded":false,"name":"Mini Cave 2 Lower","order":20,"parentId":11,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":21,"expanded":false,"name":"Mini Cave 4 Lower","order":21,"parentId":11,"scrollX":709.3333333333334,"scrollY":406.6666666666667}
+{"id":16,"expanded":false,"name":"Mini cave 1","order":15,"parentId":11,"scrollX":720,"scrollY":406.6666666666667},
+{"id":17,"expanded":false,"name":"Mini cave 3","order":16,"parentId":11,"scrollX":720,"scrollY":406.6666666666667},
+{"id":18,"expanded":false,"name":"Mini Cave 2","order":17,"parentId":11,"scrollX":720,"scrollY":406.6666666666667},
+{"id":19,"expanded":false,"name":"Mini Cave 4","order":18,"parentId":11,"scrollX":709.3333333333334,"scrollY":505.3333333333333},
+{"id":20,"expanded":false,"name":"Mini Cave 2 Lower","order":20,"parentId":11,"scrollX":720,"scrollY":406.6666666666667},
+{"id":21,"expanded":false,"name":"Mini Cave 4 Lower","order":21,"parentId":11,"scrollX":709.3333333333334,"scrollY":505.3333333333333}
 ]
