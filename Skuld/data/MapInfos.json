@@ -35,6 +35,6 @@ null,
 {"id":33,"expanded":false,"name":"InnerWoods","order":19,"parentId":23,"scrollX":1139,"scrollY":646},
 {"id":34,"expanded":false,"name":"WaterRaised1","order":15,"parentId":23,"scrollX":1139,"scrollY":646},
 {"id":35,"expanded":false,"name":"WaterLowered1","order":16,"parentId":23,"scrollX":1139,"scrollY":646},
-{"id":36,"expanded":false,"name":"WaterRaised2","order":17,"parentId":23,"scrollX":650.4,"scrollY":366},
+{"id":36,"expanded":false,"name":"WaterRaised2","order":17,"parentId":23,"scrollX":1139,"scrollY":646},
 {"id":37,"expanded":false,"name":"WaterLowered2","order":18,"parentId":23,"scrollX":1139,"scrollY":646}
 ]
