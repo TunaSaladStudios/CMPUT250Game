@@ -31,7 +31,7 @@ null,
 {"id":29,"expanded":false,"name":"LostWoods2","order":14,"parentId":23,"scrollX":832,"scrollY":640},
 {"id":30,"expanded":false,"name":"LostWoods3","order":15,"parentId":23,"scrollX":1139,"scrollY":646},
 {"id":31,"expanded":false,"name":"LostWoods4","order":16,"parentId":23,"scrollX":1139,"scrollY":646},
-{"id":32,"expanded":true,"name":"GroveToSteinCinematic","order":40,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":32,"expanded":false,"name":"GroveToSteinCinematic","order":40,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":33,"expanded":false,"name":"InnerWoods","order":21,"parentId":23,"scrollX":712,"scrollY":553.3333333333334},
 {"id":34,"expanded":false,"name":"WaterRaised1","order":17,"parentId":23,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":35,"expanded":false,"name":"WaterLowered1","order":18,"parentId":23,"scrollX":1139,"scrollY":646},
@@ -40,7 +40,7 @@ null,
 {"id":38,"expanded":true,"name":"placeholder ending","order":30,"parentId":0,"scrollX":712,"scrollY":406.6666666666667},
 {"id":39,"expanded":false,"name":"placeholder transition 1","order":11,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":40,"expanded":false,"name":"placeholder transition 2","order":22,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":41,"expanded":false,"name":"SteinToSkuldCinematic","order":42,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
+{"id":41,"expanded":true,"name":"SteinToSkuldCinematic","order":42,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":42,"expanded":true,"name":"Grove of Sunwillows","order":41,"parentId":32,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":43,"expanded":true,"name":"Level 4","order":43,"parentId":41,"scrollX":1130.6666666666667,"scrollY":962.6666666666666}
+{"id":43,"expanded":true,"name":"Level 4","order":43,"parentId":41,"scrollX":1130.6666666666667,"scrollY":889.3333333333334}
 ]
