@@ -42,5 +42,5 @@ null,
 {"id":40,"expanded":false,"name":"placeholder transition 2","order":22,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":41,"expanded":true,"name":"SteinToSkuldCinematic","order":42,"parentId":0,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
 {"id":42,"expanded":true,"name":"Grove of Sunwillows","order":41,"parentId":32,"scrollX":722.6666666666666,"scrollY":406.6666666666667},
-{"id":43,"expanded":true,"name":"SteinToSkuldCS","order":43,"parentId":41,"scrollX":962,"scrollY":876}
+{"id":43,"expanded":true,"name":"SteinToSkuldCS","order":43,"parentId":41,"scrollX":962.6666666666666,"scrollY":868}
 ]
