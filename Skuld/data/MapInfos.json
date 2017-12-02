@@ -9,7 +9,7 @@ null,
 {"id":7,"expanded":true,"name":"Town","order":4,"parentId":0,"scrollX":1131,"scrollY":1274},
 {"id":8,"expanded":false,"name":"Library 1st Floor pre","order":5,"parentId":7,"scrollX":1139,"scrollY":646},
 {"id":9,"expanded":false,"name":"Library 1st Floor post","order":7,"parentId":7,"scrollX":1139,"scrollY":646},
-{"id":10,"expanded":true,"name":"Stein's Tower","order":23,"parentId":0,"scrollX":1139,"scrollY":646},
+{"id":10,"expanded":true,"name":"Stein's Tower","order":23,"parentId":0,"scrollX":1131,"scrollY":794},
 {"id":11,"expanded":false,"name":"Gauntlet","order":30,"parentId":0,"scrollX":1131,"scrollY":1497},
 {"id":12,"expanded":true,"name":"Library 2nd Floor post","order":8,"parentId":7,"scrollX":1139,"scrollY":646},
 {"id":13,"expanded":false,"name":"Gauntlet2","order":35,"parentId":15,"scrollX":1131,"scrollY":2722},
@@ -42,5 +42,5 @@ null,
 {"id":40,"expanded":false,"name":"placeholder transition 2","order":22,"parentId":0,"scrollX":1139,"scrollY":646},
 {"id":41,"expanded":true,"name":"SteinToSkuldCinematic","order":41,"parentId":0,"scrollX":1139,"scrollY":646},
 {"id":42,"expanded":true,"name":"Grove of Sunwillows","order":40,"parentId":32,"scrollX":1139,"scrollY":646},
-{"id":43,"expanded":true,"name":"Level 4","order":42,"parentId":41,"scrollX":1131,"scrollY":922}
+{"id":43,"expanded":true,"name":"Level 4","order":42,"parentId":41,"scrollX":1131,"scrollY":942}
 ]
