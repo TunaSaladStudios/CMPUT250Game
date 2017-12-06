@@ -2,6 +2,32 @@ Skuld
 
 Created by Tuna Salad Studios
 
+Programming
+Marcus Boay
+Alden Tan
+Tim Tran
+
+Art
+Nicholas Villeneuve
+
+Sound Design
+Isael Huard
+
+Writing
+Dylan Nixon
+
+Safety Manager
+Tim Tran
+
+Producer
+Marcus Boay
+
+Lead Designer
+Dylan Nixon
+
+Executive Producer
+Shelby Carleton
+
 Plugin Credits:
 SRDude
 Terrax
