@@ -1,32 +1,34 @@
 Skuld
 
+
 Created by Tuna Salad Studios
 
-Programming
+Programming:
 Marcus Boay
 Alden Tan
 Tim Tran
 
-Art
+Art:
 Nicholas Villeneuve
 
-Sound Design
+Sound Design:
 Isael Huard
 
-Writing
+Writing:
 Dylan Nixon
 
-Safety Manager
+Safety Manager:
 Tim Tran
 
-Producer
+Producer:
 Marcus Boay
 
-Lead Designer
+Lead Designer:
 Dylan Nixon
 
-Executive Producer
+Executive Producer:
 Shelby Carleton
+
 
 Plugin Credits:
 SRDude
@@ -39,6 +41,7 @@ Tor Damian Design
 Galenmereth
 Yanfly Engine Plugins
 Chickie
+
 
 
 Thanks for playing!
