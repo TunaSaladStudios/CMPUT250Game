@@ -3,13 +3,11 @@ Skuld
 
 Created by Tuna Salad Studios
 
-Programming:
-Marcus Boay
-Alden Tan
-Tim Tran
+Lead Designer:
+Dylan Nixon
 
-Art:
-Nicholas Villeneuve
+Producer:
+Marcus Boay
 
 Sound Design:
 Isael Huard
@@ -17,21 +15,23 @@ Isael Huard
 Writing:
 Dylan Nixon
 
+Art:
+Nicholas Villeneuve
+
 Safety Manager:
 Tim Tran
 
-Producer:
+Programming:
 Marcus Boay
-
-Lead Designer:
-Dylan Nixon
+Alden Tan
+Tim Tran
 
 Executive Producer:
 Shelby Carleton
 
 
 Plugin Credits:
-SRDude
+SumRndmDde
 Terrax
 Galv
 Hime
