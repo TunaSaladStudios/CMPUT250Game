@@ -1,7 +1,3 @@
-# CMPUT250Game
+# Skuld
 
-A sick game.
-
-Isael is awesome
-marcus was here
-Tim was here 
+A narrative-based game.
