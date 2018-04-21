@@ -26,7 +26,9 @@ You can interact with menus using arrow keys, space bar, enter and M1.
 
 You can move around using "WASD" keys or arrow keys. You can also use the mouse and click on the map.
 
-You can interact with some NPCs and text boxes by pressing "space bar" or "Enter" when facing them. You can also 
+You can interact with some NPCs and text boxes by pressing "space bar" or "Enter" when facing them.
+
+You can enter the menu when in-game by pressing "ESC".
 ____________________________________________
 Acknowledgements:
 
